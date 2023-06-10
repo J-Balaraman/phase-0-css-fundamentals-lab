@@ -1,5 +1,47 @@
+header
+{
+  text-align: center;
+}
+
+nav a
+{
+  background: grey;
+}
+
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+section
+{
+  text-align: center;
+  font-size: smaller;
+  word-wrap: break-word;
+}
+
+
+#featured-property p
+{
+  margin: auto;
+  width: 800px;
+}
+  
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+
+div
+{
+  text-align: center;
+  background-color: red;
+  float: left;
+  margin: auto;
+  width: 25%;
 }
